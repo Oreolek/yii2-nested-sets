@@ -246,5 +246,6 @@ $parent = $countries->parents(1)->one();
 The original project is by creocoder a.k.a. Alexander Kochetov.
 Also contains code by:
 
+* Moh Khoirul Anam
 * Mikhail Meschangin
 * Alexander Yakovlev
