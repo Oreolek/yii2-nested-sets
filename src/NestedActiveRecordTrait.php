@@ -1,11 +1,10 @@
 <?php
 /**
- * @link https://github.com/tquant/yii2-nested-sets
- * @copyright Copyright (c) 2015 Mikhail Meschangin
+ * @link https://github.com/oreolek/yii2-nested-sets
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
 
-namespace creocoder\nestedsets;
+namespace oreolek\nestedsets;
 
 use yii\base\InvalidParamException;
 use yii\base\UserException;

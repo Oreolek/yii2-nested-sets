@@ -1,11 +1,10 @@
 <?php
 /**
  * @link https://github.com/creocoder/yii2-nested-sets
- * @copyright Copyright (c) 2015 Alexander Kochetov
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
 
-namespace creocoder\nestedsets;
+namespace oreolek\nestedsets;
 
 use yii\base\Behavior;
 use yii\db\Expression;
@@ -14,8 +13,6 @@ use yii\db\Expression;
  * NestedSetsQueryBehavior
  *
  * @property \yii\db\ActiveQuery $owner
- *
- * @author Alexander Kochetov <creocoder@gmail.com>
  */
 class NestedSetsQueryBehavior extends Behavior
 {

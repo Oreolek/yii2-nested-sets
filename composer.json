@@ -1,5 +1,5 @@
 {
-    "name": "tquant/yii2-nested-sets",
+    "name": "oreolek/yii2-nested-sets",
     "description": "The nested sets behavior for the Yii framework",
     "keywords": [
         "yii2",
@@ -11,6 +11,13 @@
         {
             "name": "Alexander Kochetov",
             "email": "creocoder@gmail.com"
+        },
+        {
+            "name": "Mikhail Meschangin"
+        },
+        {
+            "name": "Alexander Yakovlev",
+            "email": "keloero@oreolek.ru"
         }
     ],
     "require": {

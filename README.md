@@ -242,8 +242,9 @@ $countries = Menu::findOne(['name' => 'Countries']);
 $parent = $countries->parents(1)->one();
 ```
 
-## Donating
+## Credits
+The original project is by creocoder a.k.a. Alexander Kochetov.
+Also contains code by:
 
-Support this project and [others by creocoder](https://gratipay.com/creocoder/) via [gratipay](https://gratipay.com/creocoder/).
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/creocoder/)
+* Mikhail Meschangin
+* Alexander Yakovlev
